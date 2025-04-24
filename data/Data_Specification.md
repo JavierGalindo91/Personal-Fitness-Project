@@ -4,13 +4,15 @@ The purpose of this file is to provide details of the data collection process. A
 
 ## DATA SOURCES
 At this moment, data is captured from four different sources:
-- **_Food Log_**: Logs individual food entries, macros and other components like sodium intake and cholesterol.
+- **_Food Log_**: Logs details for each entry like macros and other components like sodium intake and cholesterol.
 - **_Weight Tracker_**: Tracks changes in weight, body measurements, body fat % and changes in Fat/Lean Mass.
 - **_Workout Journal_**: Records number of repetitions for each movement performed during a workout session.
 - **_HR Monitor Log_**: Heart Rate readings for each workout/physical activity.
 
 ## FOOD LOG
-Each entry in the log represents and individual food item like "Market Basket - Fat Free Cottage Cheese, 200 gram(s)". This data is recorded on the MyFitnessPal application. 
+Each entry in the log represents and individual food item like "_Market Basket - Fat Free Cottage Cheese, 200 gram(s)_". This data is recorded on the MyFitnessPal application. 
+
+![image](https://github.com/user-attachments/assets/e3983d8f-9995-4e7b-84ff-31707b67f280)
 
 Each line will have the following details: 
 - **_Food_ID:_**	_Unique identifier for each entry._
@@ -27,5 +29,3 @@ Each line will have the following details:
 - **_Sodium (mg):_**	_Sodim amount in milligrams._
 - **_Sugar (g):_**	_Sugar amount in grams._
 - **_Fiber (g):_**	_Fibrer amount in grams._
-### PREVIEW:
-![image](https://github.com/user-attachments/assets/e3983d8f-9995-4e7b-84ff-31707b67f280)
