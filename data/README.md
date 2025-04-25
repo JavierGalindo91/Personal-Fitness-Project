@@ -5,7 +5,7 @@ The purpose of this file is to provide details of the data collection process. A
 ## DATA SOURCES
 At this moment, data is captured from four different sources:
 - **_Weight Tracker_**: Tracks progress in weight and body composition over time.
-- **_Food Log_**: Logs details for each entry like macros and other components like sodium intake and cholesterol.
+- **_Food Log_**: Tracks nutritional information for each meal, including macros (protein, carbs, fat) as well as sodium and cholesterol intake.
 - **_Workout Journal_**: Records details for each exercise performed during a workout session.
 - **_HR Monitor Log_**: Heart Rate readings for each workout/physical activity.
 
@@ -14,7 +14,7 @@ Each row represents a dated measurement, recording key anthropometric metrics an
 
 ![image](https://github.com/user-attachments/assets/98f0745a-3b39-411e-8bbf-811ace79d842)
 
-### Weight Tracker Column Specifications
+### Data Specifications
 
 | Column Name             | Description |
 |-------------------------|-------------|
@@ -34,7 +34,7 @@ Each entry in the log represents and individual food item like "_Market Basket -
 
 ![image](https://github.com/user-attachments/assets/e3983d8f-9995-4e7b-84ff-31707b67f280)
 
-### Food Log Column Specifications
+### Data Specifications
 | Column Name        | Description |
 |--------------------|-------------|
 | `Food_ID`          | Unique identifier for each food entry. |
@@ -57,7 +57,7 @@ Each entry represents the number of repetitions (or minutes, where applicable) p
 
 ![image](https://github.com/user-attachments/assets/9912aaef-62bb-45a9-97dd-f5407b277374)
 
-### Workout Jorunal Column Specifications
+### Data Specifications
 | Column Name           | Description |
 |------------------------|-------------|
 | `Movement_Log_ID`      | Unique identifier for each movement entry. |
