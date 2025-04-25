@@ -1,4 +1,5 @@
 # Data Set Specifications
+_Last Updated: April 25, 2025_
 
 The purpose of this file is to provide details of the data collection process. All log files are saved in CSV format. 
 
@@ -68,3 +69,46 @@ Each entry represents the number of repetitions (or minutes, where applicable) p
 | `Round_1` to `Round_5` | Number of repetitions (or duration in minutes) completed in each round. |
 | `Total_Reps`           | Sum of repetitions or minutes across all rounds for the movement. |
 | `Notes`                | Additional details, such as duration units ("Minutes") or modifications. |
+
+## HR MONITOR READNGS
+Each entry corresponds to an individual exercise activity recorded using a Garmin Forerunner 235 device. The dataset captures heart rate metrics, movement data, and performance-related statistics for various sessions.
+
+![image](https://github.com/user-attachments/assets/1b763c2a-e25a-4aa5-9a77-116909b4af44)
+
+### Data Specifications
+| Column Name               | Description |
+|----------------------------|-------------|
+| `Activity_ID`              | Unique identifier for each activity session. |
+| `Activity Type`            | Type of activity (e.g., Other, Running, Cycling). |
+| `Date`                     | Date the activity was performed. |
+| `Favorite`                 | Boolean indicating if the activity is marked as a favorite. |
+| `Title`                    | Title or description of the activity. |
+| `Distance`                 | Distance covered during the activity (miles or kilometers depending on settings). |
+| `Calories`                 | Estimated calories burned. |
+| `Time`                     | Duration of the activity (HH:MM:SS). |
+| `Avg HR`                   | Average heart rate during the activity (beats per minute). |
+| `Max HR`                   | Maximum heart rate recorded during the activity. |
+| `Aerobic TE`               | Aerobic Training Effect — a score indicating how the activity improves aerobic fitness. |
+| `Avg Bike Cadence`          | Average cycling cadence (revolutions per minute); applicable for biking activities. |
+| `Max Bike Cadence`          | Maximum cycling cadence recorded. |
+| `Avg Speed`                | Average speed during the activity. |
+| `Max Speed`                | Maximum speed achieved. |
+| `Total Ascent`             | Total elevation gained (typically in feet or meters). |
+| `Total Descent`            | Total elevation lost. |
+| `Avg Stride Length`        | Average stride length (meters) for running/walking activities. |
+| `Training Stress Score®`   | Proprietary metric estimating the training load of the session. |
+| `Steps`                    | Total steps counted during the activity. |
+| `Decompression`            | Status indicator (e.g., "No" or "Yes") if post-activity decompression advice is provided. |
+| `Best Lap Time`            | Fastest lap time recorded (if applicable). |
+| `Number of Laps`           | Total number of laps during the activity. |
+| `Moving Time`              | Actual time spent moving (may differ from elapsed time if there were pauses). |
+| `Elapsed Time`             | Total time from start to end of the activity, including pauses. |
+| `Min Elevation`            | Minimum elevation reached during the activity. |
+| `Max Elevation`            | Maximum elevation reached during the activity. |
+
+## Final Notes
+This documentation provides the structural details for all datasets collected so far. As new data sources are added or existing formats are updated, this file should be revised to maintain accuracy and clarity. 
+
+For questions, updates, or expansion of this project, please refer to this document as the baseline reference.
+
+
