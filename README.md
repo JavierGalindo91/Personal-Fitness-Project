@@ -30,7 +30,6 @@ Here is a picture of the data model:
 
 ![image](https://github.com/user-attachments/assets/30282d25-e987-497d-85c9-437f955de649)
 
-I will add resources that will help you understand the thought process behind this data model.
 _________________________________________________________________
 
 ## FILE and RESOURCE ACCESS
