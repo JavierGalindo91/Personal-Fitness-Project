@@ -1,7 +1,7 @@
 # Data Set Specifications
 _Last Updated: 2025-04-25_
 
-The purpose of this file is to provide details of the data collection process. All log files are saved in CSV format.
+The purpose of this file is to provide details of the data collection process for this project. All log files are saved in CSV format.
 
 ---
 
