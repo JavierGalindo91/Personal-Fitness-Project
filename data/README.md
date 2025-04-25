@@ -1,4 +1,4 @@
-# Fitness Journey: Data Set Specifications
+# Data Set Specifications
 
 The purpose of this file is to provide details of the data collection process. All log files are saved in CSV format. 
 
