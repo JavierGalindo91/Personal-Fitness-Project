@@ -1,0 +1,27 @@
+﻿Movement_Log_ID,Date,Workout_Session_Type,Exercise_Type,Movement_Name,Round_1,Round_2,Round_3,Round_4,Round _5,Total_Reps,Notes
+1,4/10/2025,Full Body,Push,Push-Ups,12,15,12,12,10,61,
+2,4/10/2025,Full Body,Lower Body,Bodyweight Squat,30,25,30,25,20,130,
+3,4/10/2025,Full Body,Hinge,Glute Bridge,25,20,25,25,20,115,
+4,4/10/2025,Full Body,Pull,Pull-Ups Progression,10,10,10,15,12,57,
+5,4/10/2025,Full Body,Core,Plank,1,1,1,1,1,5,Minutes
+6,4/10/2025,Full Body,Cardio,Jump Rope,1,1,1,1,1,5,Minutes
+7,4/20/2025,Full Body,Push,Push-Ups,15,15,15,15,10,70,
+8,4/20/2025,Full Body,Lower Body,Bodyweight Squat,25,25,25,25,25,125,
+9,4/20/2025,Full Body,Hinge,Glute Bridge,25,25,25,25,25,125,
+10,4/20/2025,Full Body,Pull,Pull-Ups Progression,10,10,11,10,9,50,
+11,4/20/2025,Full Body,Core,Plank,1,1,1,1,0.5,4.5,Minutes
+12,4/20/2025,Full Body,Cardio,Shadow Boxing,1.5,1.5,1.5,1,0.5,6,Minutes
+13,4/23/2025,Full Body,Push,Push-Ups,15,15,15,15,14,74,
+14,4/23/2025,Full Body,Lower Body,Bodyweight Squat,25,25,25,25,25,125,
+15,4/23/2025,Full Body,Hinge,Glute Bridge,25,25,25,20,30,125,
+16,4/23/2025,Full Body,Pull,Pull-Ups Progression,20,11,10,14,10,65,
+17,4/23/2025,Full Body,Core,Plank,1,1,1,0.5,1,4.5,Minutes
+18,4/23/2025,Full Body,Cardio,Jump Rope,1,1,1,0.75,0.5,4.25,Minutes
+19,4/24/2025,Boxing,Heavy Bag Circuit,1-2's,,,,,,0,Minutes
+20,4/24/2025,Boxing,Heavy Bag Circuit,Squats,,,,,,0,
+21,4/24/2025,Boxing,Heavy Bag Circuit,"Duck, 2-3-2",,,,,,0,Minutes
+22,4/24/2025,Boxing,Heavy Bag Circuit,Push-Ups,,,,,,0,
+23,4/24/2025,Boxing,Heavy Bag Circuit,3-4-3-2,,,,,,0,Minutes
+24,4/24/2025,Boxing,Heavy Bag Circuit,Glute Bridge,,,,,,0,
+25,4/24/2025,Boxing,Heavy Bag Circuit,"Slip, 2-5-2",,,,,,0,Minutes
+26,4/24/2025,Boxing,Heavy Bag Circuit,Plank,,,,,,0,Minutes

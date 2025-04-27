@@ -1,0 +1,511 @@
+﻿FOOD_ID,DATE,MEAL,FOODS,Food_Item,Quantity,Calories,Protein (g),Carbs (g),Fat (g),Cholest (mg),Sodium (mg),Sugar (g),Fiber (g)
+1,3/1/2025,Meal 1,"Kfc Fried Chicken Wing - Kfc Fried Chicken Wing, 1 piece",Fried Chicken Wing, 1 piece,130 ,10 ,3 ,8 ,55 ,380 ,--,0 
+2,3/1/2025,Meal 1,"Viga - Meatlovers Pizza, 1 Slice",Meatlovers Pizza, 1 Slice,421 ,10 ,36 ,16 ,45 ,"1,040 ",--,1 
+3,3/1/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+4,3/1/2025,Meal 1,"Market Basket - Eggs, 2 egg",Eggs, 2 egg,140 ,12 ,2 ,9 ,430 ,130 ,0 ,0 
+5,3/1/2025,Meal 2,"Potato Wedges - Potato Wedges, 200 gr",Potato Wedges, 200 gr,280 ,4 ,40 ,10 ,0 ,100 ,0 ,4 
+6,3/1/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+7,3/1/2025,Meal 2,"Market Basket - Eggs, 2 egg",Eggs, 2 egg,140 ,12 ,2 ,9 ,430 ,130 ,0 ,0 
+8,3/1/2025,Meal 2,"Bean Soup - Bean Soup - Mixed Beans, 3 cup cooked",Bean Soup, 3 cup cooked,387 ,38 ,65 ,5 ,15 ,300 ,19 ,19 
+9,3/1/2025,Meal 3,"Viga - Meatlovers Pizza, 1 Slice",Meatlovers Pizza, 1 Slice,421 ,10 ,36 ,16 ,45 ,"1,040 ",--,1 
+10,3/1/2025,Snacks,"Tostitos - Tostitos Nachos, 30 g",Tostitos Nachos, 30 g,144 ,2 ,19 ,7 ,0 ,76 ,0 ,2 
+11,3/1/2025,Total,TOTALS,,,"2,410 ",127 ,259 ,80 ,"1,038 ","3,924 ",28 ,28 
+12,3/2/2025,Meal 1,"Dunkin' - Sourdough Breakfast Sandwich, 1 Sandwich",Sourdough Breakfast Sandwich, 1 Sandwich,650 ,31 ,58 ,32 ,365 ,"1,360 ",2 ,3 
+13,3/2/2025,Meal 2,"Brussel sprouts, 2 cup",Brussel sprouts, 2 cup,77 ,6 ,16 ,1 ,0 ,45 ,4 ,7 
+14,3/2/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+15,3/2/2025,Meal 3,"Carrots, 1 cup",Carrots, 1 cup,49 ,1 ,11 ,0 ,0 ,83 ,6 ,3 
+16,3/2/2025,Meal 3,"Tomato, 2 medium",Tomato, 2 medium,44 ,2 ,10 ,0 ,0 ,12 ,6 ,3 
+17,3/2/2025,Meal 3,"Lettuce, 2 cup, shredded",Lettuce, 2 cup,10 ,1 ,2 ,0 ,0 ,13 ,1 ,1 
+18,3/2/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 2 can drained","Solid White Albacore, Tuna in Water", 2 can drained,260 ,60 ,0 ,2 ,90 ,700 ,--,--
+19,3/2/2025,Snacks,"Corn Bread Famous Dave's - Corn Bread, 1.25 oz (35g)",Corn Bread, 1.25 oz (35g),150 ,1 ,27 ,4 ,0 ,190 ,14 ,1 
+20,3/2/2025,Snacks,"French fries, 2 cup",French fries, 2 cup,235 ,2 ,22 ,16 ,0 ,169 ,2 ,2 
+21,3/2/2025,Snacks,"Generic - Large Bagel With Cream Cheese, 1 Bagel",Large Bagel With Cream Cheese, 1 Bagel,436 ,14 ,66 ,8 ,27 ,634 ,5 ,4 
+22,3/2/2025,Total,TOTALS,,,"2,314 ",173 ,223 ,83 ,789 ,"3,403 ",40 ,24 
+23,3/3/2025,Meal 1,"Quaker - Chewy Chocolate Chip, 1 bar",Chewy Chocolate Chip, 1 bar,100 ,1 ,17 ,4 ,0 ,70 ,7 ,1 
+24,3/3/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+25,3/3/2025,Meal 1,"Banana, 1 medium",Banana, 1 medium,105 ,1 ,27 ,0 ,0 ,1 ,14 ,3 
+26,3/3/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+27,3/3/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+28,3/3/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+29,3/3/2025,Meal 3,"Homemade corn tortillas - Tortilla, 4 Tortilla",Homemade corn tortillas, 4 Tortilla,400 ,8 ,68 ,10 ,0 ,880 ,0 ,0 
+30,3/3/2025,Meal 3,"Coca Cola - Coca-Cola, 1 can",Coca Cola, 1 can,160 ,0 ,42 ,0 ,--,40 ,42 ,--
+31,3/3/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 2 can drained","Solid White Albacore, Tuna in Water", 2 can drained,260 ,60 ,0 ,2 ,90 ,700 ,--,--
+32,3/3/2025,Total,TOTALS,,,"2,215 ",149 ,231 ,88 ,397 ,"2,068 ",71 ,14 
+33,3/4/2025,Meal 1,"Banana, 2 medium",Banana, 2 medium,210 ,3 ,54 ,1 ,0 ,2 ,29 ,6 
+34,3/4/2025,Meal 1,"Guarana Antarctica - Guarana Soda, 1 can",Guarana Antarctica, 1 can,145 ,0 ,36 ,0 ,--,20 ,36 ,--
+35,3/4/2025,Meal 1,"Jif - Peanut Butter, Creamy, 63 g",Peanut Butter, 63 g,363 ,13 ,15 ,31 ,0 ,267 ,6 ,4 
+36,3/4/2025,Meal 2,"Chipotle Guacamole - Guacamole* RG, 4 oz",Chipotle Guacamole, 4 oz,230 ,2 ,8 ,22 ,0 ,370 ,1 ,6 
+37,3/4/2025,Meal 2,"Black beans, canned, 1 cup","Black beans, canned", 1 cup,218 ,14 ,40 ,1 ,0 ,922 ,1 ,17 
+38,3/4/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+39,3/4/2025,Meal 2,"Grilled Beef - Grilled Beef, 5 ounce",Grilled Beef, 5 ounce,354 ,37 ,--,21 ,--,--,--,--
+40,3/4/2025,Meal 3,"Ginger Ale - Ginger Ale, 12 fluid ounce",Ginger Ale, 12 fluid ounce,140 ,0 ,37 ,0 ,0 ,50 ,37 ,0 
+41,3/4/2025,Meal 3,"Carrots, 1 cup",Carrots, 1 cup,49 ,1 ,11 ,0 ,0 ,83 ,6 ,3 
+42,3/4/2025,Meal 3,"Wellsley Farms - Mini Cucumbers, 3 mini cucumber",Wellsley Farms - Mini Cucumbers, 3 mini cucumber,30 ,0 ,6 ,0 ,0 ,0 ,2 ,0 
+43,3/4/2025,Meal 3,"Tomato, 2 medium",Tomato, 2 medium,44 ,2 ,10 ,0 ,0 ,12 ,6 ,3 
+44,3/4/2025,Meal 3,"Chipotle Pico de Gallo - Chipotle Pico de Gallo 2024, 4 ounce",Chipotle Pico de Gallo, 4 ounce,25 ,0 ,4 ,0 ,--,--,--,--
+45,3/4/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 2 can drained","Solid White Albacore, Tuna in Water", 2 can drained,260 ,60 ,0 ,2 ,90 ,700 ,--,--
+46,3/4/2025,Total,TOTALS,,,"2,273 ",136 ,266 ,78 ,90 ,"2,428 ",124 ,40 
+47,3/5/2025,Meal 2,"Goya - Red Kidney Beans, 1 cup",Red Kidney Beans, 1 cup,560 ,36 ,104 ,0 ,0 ,20 ,4 ,24 
+48,3/5/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+49,3/5/2025,Meal 2,"Chipotle Pico de Gallo - Chipotle Pico de Gallo 2024, 4 ounce",Chipotle Pico de Gallo, 4 ounce,25 ,0 ,4 ,0 ,--,--,--,--
+50,3/5/2025,Meal 2,"Tomato, 2 medium",Tomato, 2 medium,44 ,2 ,10 ,0 ,0 ,12 ,6 ,3 
+51,3/5/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+52,3/5/2025,Meal 3,"Cherry tomatoes, 1 cup",Cherry tomatoes, 1 cup,13 ,1 ,3 ,0 ,0 ,4 ,2 ,1 
+53,3/5/2025,Meal 3,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+54,3/5/2025,Meal 3,"Spinach, raw, fresh, 2 cup",Spinach, 2 cup,14 ,2 ,2 ,0 ,0 ,47 ,0 ,1 
+55,3/5/2025,Meal 3,"Carrots - Baby, 6 ounce",Carrots - Baby, 6 ounce,70 ,2 ,16 ,0 ,16 ,130 ,10 ,4 
+56,3/5/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 2 can drained","Solid White Albacore, Tuna in Water", 2 can drained,260 ,60 ,0 ,2 ,90 ,700 ,--,--
+57,3/5/2025,Snacks,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+58,3/5/2025,Snacks,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 2 cup","Almond Milk, Vanilla", 2 cup,160 ,2 ,28 ,5 ,0 ,300 ,26 ,1 
+59,3/5/2025,Snacks,"Blueberries, 1 cup",Blueberries, 1 cup,42 ,1 ,11 ,0 ,0 ,1 ,7 ,2 
+60,3/5/2025,Total,TOTALS,,,"2,476 ",187 ,256 ,91 ,413 ,"1,413 ",63 ,49 
+61,3/6/2025,Meal 1,"Jif - Peanut Butter, Creamy, 84 g",Peanut Butter, 84 g,484 ,18 ,20 ,41 ,0 ,356 ,8 ,5 
+62,3/6/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+63,3/6/2025,Meal 2,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+64,3/6/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+65,3/6/2025,Meal 3,"Chicken Thighs - 2 Thighs, 4 oz",Chicken Thighs, 4 oz,201 ,27 ,5 ,10 ,153 ,99 ,0 ,0 
+66,3/6/2025,Meal 3,"Potatoes, boiled, 2 medium",Potatoes, 2 medium,287 ,6 ,67 ,0 ,0 ,17 ,3 ,6 
+67,3/6/2025,Meal 3,"Pork tenderloin, cooked, 4 oz",Pork tenderloin, 4 oz,166 ,29 ,0 ,4 ,82 ,64 ,0 ,0 
+68,3/6/2025,Meal 3,"Cherry tomatoes, 1 cup",Cherry tomatoes, 1 cup,13 ,1 ,3 ,0 ,0 ,4 ,2 ,1 
+69,3/6/2025,Meal 3,"Carrots - Baby, 6 ounce",Carrots - Baby, 6 ounce,70 ,2 ,16 ,0 ,16 ,130 ,10 ,4 
+70,3/6/2025,Snacks,"Blueberries, 1 cup",Blueberries, 1 cup,42 ,1 ,11 ,0 ,0 ,1 ,7 ,2 
+71,3/6/2025,Snacks,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 2 cup","Almond Milk, Vanilla", 2 cup,160 ,2 ,28 ,5 ,0 ,300 ,26 ,1 
+72,3/6/2025,Total,TOTALS,,,"2,068 ",143 ,223 ,80 ,558 ,"1,170 ",90 ,27 
+73,3/7/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+74,3/7/2025,Meal 1,"Jif - Peanut Butter, Creamy, 84 g",Peanut Butter, 84 g,484 ,18 ,20 ,41 ,0 ,356 ,8 ,5 
+75,3/7/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 1.5 ounce",Almonds - Roasted, 1.5 ounce,255 ,9 ,9 ,24 ,--,--,3 ,4 
+76,3/7/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+77,3/7/2025,Meal 3,"Pan frances - Frances Pan, 2 roll(105g)",Pan frances, 2 roll(105g),560 ,24 ,112 ,3 ,0 ,"1,180 ",8 ,6 
+78,3/7/2025,Meal 3,"Key lime margaritas - Key lime margaritas, 6 cup",Key lime margaritas, 6 cup,540 ,0 ,150 ,0 ,0 ,0 ,138 ,0 
+79,3/7/2025,Meal 3,"Domino's Large Pepperoni Pizza - Large Pepperoni Pizza, 1 slice",Large Pepperoni Pizza, 1 slice,300 ,12 ,34 ,13 ,30 ,700 ,3 ,2 
+80,3/7/2025,Meal 3,"Downeast - Downeast Original Blend Cider, 36 fl oz",Downeast Original Blend Cider, 36 fl oz,546 ,0 ,60 ,0 ,0 ,0 ,51 ,0 
+81,3/7/2025,Meal 3,"Grilled Beef - Grilled Beef, 5 ounce",Grilled Beef, 5 ounce,354 ,37 ,--,21 ,--,--,--,--
+82,3/7/2025,Meal 3,"Ribs - Ribs Pork, 5 ribs",Ribs - Ribs Pork, 5 ribs,369 ,54 ,4 ,17 ,60 ,330 ,1 ,0 
+83,3/7/2025,Total,TOTALS,,,"3,932 ",210 ,431 ,139 ,397 ,"2,764 ",229 ,21 
+84,3/8/2025,Meal 1,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+85,3/8/2025,Meal 1,"Post - Honey Bunches of Oats, Crispy with Almonds, 1.5 cup","Honey Bunches of Oats, Crispy with Almonds", 1.5 cup,255 ,5 ,51 ,5 ,0 ,270 ,14 ,3 
+86,3/8/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+87,3/8/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+88,3/8/2025,Meal 1,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 2 cup","Almond Milk, Vanilla", 2 cup,160 ,2 ,28 ,5 ,0 ,300 ,26 ,1 
+89,3/8/2025,Meal 2,"bobs red mill - pancake, 0.5 cup",pancake, 0.5 cup,280 ,14 ,54 ,2 ,0 ,600 ,4 ,10 
+90,3/8/2025,Meal 2,"Grilled Beef - Grilled Beef, 4 ounce",Grilled Beef, 4 ounce,283 ,29 ,--,17 ,--,--,--,--
+91,3/8/2025,Meal 2,"Doña Lupe Flour Tortillas - Flour Tortillas, 2 tortilla",Flour Tortillas, 2 tortilla,220 ,0 ,72 ,4 ,0 ,960 ,0 ,2 
+92,3/8/2025,Meal 3,"Carrots - Baby, 6 ounce",Carrots - Baby, 6 ounce,70 ,2 ,16 ,0 ,16 ,130 ,10 ,4 
+93,3/8/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 2 can drained","Solid White Albacore, Tuna in Water", 2 can drained,260 ,60 ,0 ,2 ,90 ,700 ,--,--
+94,3/8/2025,Meal 3,"Cherry tomatoes, 1 cup",Cherry tomatoes, 1 cup,13 ,1 ,3 ,0 ,0 ,4 ,2 ,1 
+95,3/8/2025,Meal 3,"Spinach, raw, fresh, 2 cup",Spinach, 2 cup,14 ,2 ,2 ,0 ,0 ,47 ,0 ,1 
+96,3/8/2025,Snacks,"modelo - beer, 24 fl oz",modelo - beer, 24 fl oz,240 ,0 ,25 ,0 ,--,--,--,--
+97,3/8/2025,Total,TOTALS,,,"2,370 ",166 ,289 ,59 ,984 ,"4,125 ",78 ,23 
+98,3/9/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+99,3/9/2025,Meal 1,"Blueberries, 1 cup",Blueberries, 1 cup,42 ,1 ,11 ,0 ,0 ,1 ,7 ,2 
+100,3/9/2025,Meal 1,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 2 cup","Almond Milk, Vanilla", 2 cup,160 ,2 ,28 ,5 ,0 ,300 ,26 ,1 
+101,3/9/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+102,3/9/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+103,3/9/2025,Meal 2,"Publix - Fried Chicken Drums, 3 drumstick (3 oz)",Fried Chicken Drums, 3 drumstick (3 oz),690 ,48 ,33 ,39 ,210 ,"1,560 ",--,--
+104,3/9/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+105,3/9/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+106,3/9/2025,Meal 3,"Fried Beans - Fried Beans, 3 oz",Fried Beans, 3 oz,145 ,6 ,19 ,5 ,--,--,--,--
+107,3/9/2025,Meal 3,"Market Basket - Eggs, 2 egg",Eggs, 2 egg,140 ,12 ,2 ,9 ,430 ,130 ,0 ,0 
+108,3/9/2025,Meal 3,"Avocado - Avocado, 2.5 oz(s)",Avocado, 2.5 oz(s),166 ,2 ,9 ,15 ,0 ,7 ,1 ,7 
+109,3/9/2025,Snacks,"Klondike - Klondike Bar, 1 bar",Klondike Bar, 1 bar,250 ,3 ,29 ,14 ,10 ,70 ,23 ,1 
+110,3/9/2025,Snacks,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+111,3/9/2025,Total,TOTALS,,,"2,897 ",185 ,256 ,131 ,"1,835 ","3,382 ",96 ,17 
+112,3/10/2025,Meal 1,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+113,3/10/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+114,3/10/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+115,3/10/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+116,3/10/2025,Meal 2,"Goya - Red Kidney Beans, 1 cup",Red Kidney Beans, 1 cup,560 ,36 ,104 ,0 ,0 ,20 ,4 ,24 
+117,3/10/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+118,3/10/2025,Meal 3,"Grilled Beef - Grilled Beef, 4.5 ounce",Grilled Beef, 4.5 ounce,319 ,33 ,--,19 ,--,--,--,--
+119,3/10/2025,Meal 3,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+120,3/10/2025,Total,TOTALS,,,"2,505 ",196 ,183 ,121 ,"1,185 ","1,204 ",38 ,40 
+121,3/11/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+122,3/11/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+123,3/11/2025,Meal 2,"Grilled Beef - Grilled Beef, 4.5 ounce",Grilled Beef, 4.5 ounce,319 ,33 ,--,19 ,--,--,--,--
+124,3/11/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+125,3/11/2025,Meal 2,"Cherry tomatoes, 1 cup",Cherry tomatoes, 1 cup,13 ,1 ,3 ,0 ,0 ,4 ,2 ,1 
+126,3/11/2025,Meal 2,"Spinach, raw, fresh, 2 cup",Spinach, 2 cup,14 ,2 ,2 ,0 ,0 ,47 ,0 ,1 
+127,3/11/2025,Meal 3,"Boiled Green Banana, 1 banana",Boiled Green Banana, 1 banana,107 ,1 ,27 ,1 ,0 ,98 ,14 ,3 
+128,3/11/2025,Meal 3,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+129,3/11/2025,Meal 3,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+130,3/11/2025,Snacks,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+131,3/11/2025,Snacks,"Nutribar - Oatmeal and rice bar, 1 pack",Oatmeal and rice bar, 1 pack,101 ,2 ,21 ,1 ,0 ,0 ,0 ,0 
+132,3/11/2025,Total,TOTALS,,,"2,018 ",121 ,184 ,99 ,307 ,655 ,54 ,20 
+133,3/12/2025,Meal 1,"Red onion, 3 tbsp, chopped",Red onion, 3 tbsp,12 ,0 ,3 ,0 ,0 ,1 ,1 ,1 
+134,3/12/2025,Meal 1,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 2 cup","Almond Milk, Vanilla", 2 cup,160 ,2 ,28 ,5 ,0 ,300 ,26 ,1 
+135,3/12/2025,Meal 1,"Blueberries, 1 cup",Blueberries, 1 cup,42 ,1 ,11 ,0 ,0 ,1 ,7 ,2 
+136,3/12/2025,Meal 1,"Hellman's - Mayonnaise, 1.5 tbsp",Mayonnaise, 1.5 tbsp,135 ,0 ,0 ,15 ,8 ,135 ,0 ,0 
+137,3/12/2025,Meal 1,"Pear, 1 cup",Pear, 1 cup,74 ,0 ,19 ,0 ,0 ,4 ,12 ,4 
+138,3/12/2025,Meal 1,"Market Basket - Eggs, 2 egg",Eggs, 2 egg,140 ,12 ,2 ,9 ,430 ,130 ,0 ,0 
+139,3/12/2025,Meal 1,"Market Basket - Solid White Albacore, Tuna in Water, 1 can drained","Solid White Albacore, Tuna in Water", 1 can drained,130 ,30 ,0 ,1 ,45 ,350 ,--,--
+140,3/12/2025,Meal 2,"Market Basket - Solid White Albacore, Tuna in Water, 2 can drained","Solid White Albacore, Tuna in Water", 2 can drained,260 ,60 ,0 ,2 ,90 ,700 ,--,--
+141,3/12/2025,Meal 2,"Red onion, 3 tbsp, chopped",Red onion, 3 tbsp,12 ,0 ,3 ,0 ,0 ,1 ,1 ,1 
+142,3/12/2025,Meal 2,"Hellman's - Mayonnaise, 1.5 tbsp",Mayonnaise, 1.5 tbsp,135 ,0 ,0 ,15 ,8 ,135 ,0 ,0 
+143,3/12/2025,Meal 2,"Market Basket - Eggs, 2 egg",Eggs, 2 egg,140 ,12 ,2 ,9 ,430 ,130 ,0 ,0 
+144,3/12/2025,Meal 3,"Grilled Beef - Grilled Beef, 4.5 ounce",Grilled Beef, 4.5 ounce,319 ,33 ,--,19 ,--,--,--,--
+145,3/12/2025,Snacks,"Oreos, 4 cookie",Oreos, 4 cookie,204 ,2 ,31 ,8 ,0 ,171 ,18 ,1 
+146,3/12/2025,Total,TOTALS,,,"1,763 ",152 ,99 ,83 ,"1,011 ","2,058 ",65 ,10 
+147,3/13/2025,Meal 1,"Jif - Peanut Butter, Creamy, 84 g",Peanut Butter, 84 g,484 ,18 ,20 ,41 ,0 ,356 ,8 ,5 
+148,3/13/2025,Meal 1,"Boiled Green Banana, 1 banana",Boiled Green Banana, 1 banana,107 ,1 ,27 ,1 ,0 ,98 ,14 ,3 
+149,3/13/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+150,3/13/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+151,3/13/2025,Meal 3,"Market Basket - Eggs, 5 egg",Eggs, 5 egg,350 ,30 ,5 ,23 ,"1,075 ",325 ,0 ,0 
+152,3/13/2025,Meal 3,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+153,3/13/2025,Total,TOTALS,,,"1,826 ",140 ,85 ,117 ,"1,400 ","1,702 ",35 ,14 
+154,3/14/2025,Meal 1,"Nutribar - Oatmeal and rice bar, 1 pack",Oatmeal and rice bar, 1 pack,101 ,2 ,21 ,1 ,0 ,0 ,0 ,0 
+155,3/14/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+156,3/14/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+157,3/14/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 1.5 ounce",Almonds - Roasted, 1.5 ounce,255 ,9 ,9 ,24 ,--,--,3 ,4 
+158,3/14/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+159,3/14/2025,Meal 3,"New Holland - Dragon's Milk White Stout, 24 fl oz",Dragon's Milk White Stout, 24 fl oz,420 ,6 ,38 ,0 ,--,--,--,--
+160,3/14/2025,Meal 3,"Lone Star - Potato, Medium, Baked, 200 g",Potato, 200 g,186 ,5 ,42 ,1 ,--,78 ,2 ,5 
+161,3/14/2025,Meal 3,"Broccoli - Broccoli Steamed, 2 cup",Broccoli Steamed, 2 cup,62 ,5 ,12 ,1 ,0 ,60 ,3 ,5 
+162,3/14/2025,Meal 3,"Grilled - Ribeye, 20 oz",Grilled - Ribeye, 20 oz,"1,550 ",120 ,0 ,110 ,400 ,275 ,0 ,0 
+163,3/14/2025,Snacks,"Taco, 1 taco",Taco, 1 taco,210 ,9 ,21 ,10 ,26 ,571 ,2 ,3 
+164,3/14/2025,Total,TOTALS,,,"3,550 ",221 ,195 ,187 ,733 ,"1,360 ",31 ,24 
+165,3/15/2025,Meal 1,"empanada don maiz - empanada don maiz, 3 unidad",empanada don maiz, 3 unidad,510 ,21 ,12 ,27 ,--,870 ,0 ,6 
+166,3/15/2025,Meal 1,"Oreos, 7 cookie",Oreos, 7 cookie,357 ,4 ,55 ,15 ,0 ,299 ,31 ,2 
+167,3/15/2025,Meal 2,"Carrots - Baby, 6 ounce",Carrots - Baby, 6 ounce,70 ,2 ,16 ,0 ,16 ,130 ,10 ,4 
+168,3/15/2025,Meal 2,"Cherry tomatoes, 1 cup",Cherry tomatoes, 1 cup,13 ,1 ,3 ,0 ,0 ,4 ,2 ,1 
+169,3/15/2025,Meal 2,"Spinach, raw, fresh, 2 cup",Spinach, 2 cup,14 ,2 ,2 ,0 ,0 ,47 ,0 ,1 
+170,3/15/2025,Meal 3,"Crisper's - Steak Caesar Wrap, 1 whole",Steak Caesar Wrap, 1 whole,764 ,36 ,61 ,41 ,--,"2,142 ",--,5 
+171,3/15/2025,Snacks,"Domino's - Lava Cake, 2 cake",Lava Cake, 2 cake,700 ,8 ,94 ,34 ,130 ,340 ,62 ,2 
+172,3/15/2025,Total,TOTALS,,,"2,428 ",74 ,243 ,117 ,146 ,"3,832 ",105 ,21 
+173,3/16/2025,Meal 1,"Generic - Large Bagel With Cream Cheese, 1 Bagel",Large Bagel With Cream Cheese, 1 Bagel,436 ,14 ,66 ,8 ,27 ,634 ,5 ,4 
+174,3/16/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 2 cup (158g)",White Rice (Cooked), 2 cup (158g),410 ,8 ,90 ,0 ,0 ,4 ,0 ,2 
+175,3/16/2025,Meal 2,"Jarritos, 1 can or bottle (16 fl oz)",Jarritos, 1 can or bottle (16 fl oz),238 ,0 ,61 ,0 ,0 ,60 ,--,0 
+176,3/16/2025,Meal 2,"Chipotle Pico de Gallo - Chipotle Pico de Gallo 2024, 4 ounce",Chipotle Pico de Gallo, 4 ounce,25 ,0 ,4 ,0 ,--,--,--,--
+177,3/16/2025,Meal 2,"Avocado - Avocado, 2.5 oz(s)",Avocado, 2.5 oz(s),166 ,2 ,9 ,15 ,0 ,7 ,1 ,7 
+178,3/16/2025,Meal 2,"Pork Steak - Grilled, 5 oz",Pork Steak - Grilled, 5 oz,365 ,36 ,0 ,23 ,134 ,98 ,--,--
+179,3/16/2025,Meal 3,"Market Basket - Eggs, 1 egg",Eggs, 1 egg,70 ,6 ,1 ,5 ,215 ,65 ,0 ,0 
+180,3/16/2025,Meal 3,"Sabritas - Chicharron, 30 gramos",Chicharron, 30 gramos,174 ,16 ,0 ,12 ,25 ,450 ,0 ,0 
+181,3/16/2025,Meal 3,"Fried Beans - Fried Beans, 3 oz",Fried Beans, 3 oz,145 ,6 ,19 ,5 ,--,--,--,--
+182,3/16/2025,Meal 3,"Cinco De Mayo - Tortillas, 2 pcs. (50g)",Cinco De Mayo - Tortillas, 2 pcs. (50g),100 ,2 ,20 ,1 ,--,36 ,--,2 
+183,3/16/2025,Snacks,"Pepsico - Pepsi, 1 can (12fl oz)",Pepsi, 1 can (12fl oz),150 ,0 ,41 ,0 ,0 ,30 ,41 ,0 
+184,3/16/2025,Total,TOTALS,,,"2,279 ",90 ,311 ,69 ,401 ,"1,384 ",47 ,15 
+185,3/17/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+186,3/17/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+187,3/17/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 2 cup (158g)",White Rice (Cooked), 2 cup (158g),410 ,8 ,90 ,0 ,0 ,4 ,0 ,2 
+188,3/17/2025,Meal 2,"Chicken Thighs - 2 Thighs, 3 oz",Chicken Thighs, 3 oz,151 ,21 ,4 ,8 ,115 ,74 ,0 ,0 
+189,3/17/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+190,3/17/2025,Meal 2,"Cherry tomatoes, 1 cup",Cherry tomatoes, 1 cup,13 ,1 ,3 ,0 ,0 ,4 ,2 ,1 
+191,3/17/2025,Meal 2,"Rotisserie Chicken, 2 serving (3 oz)",Rotisserie Chicken, 2 serving (3 oz),361 ,44 ,0 ,21 ,208 ,662 ,0 ,0 
+192,3/17/2025,Meal 3,"Cinco De Mayo - Tortillas, 2 pcs. (50g)",Cinco De Mayo - Tortillas, 2 pcs. (50g),100 ,2 ,20 ,1 ,--,36 ,--,2 
+193,3/17/2025,Meal 3,"Goya - Red Kidney Beans, 1 cup",Red Kidney Beans, 1 cup,560 ,36 ,104 ,0 ,0 ,20 ,4 ,24 
+194,3/17/2025,Meal 3,"Rotisserie Chicken, 2.5 serving (3 oz)",Rotisserie Chicken, 2.5 serving (3 oz),451 ,55 ,0 ,26 ,260 ,827 ,0 ,0 
+195,3/17/2025,Snacks,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+196,3/17/2025,Total,TOTALS,,,"2,902 ",190 ,296 ,114 ,583 ,"1,934 ",44 ,43 
+197,3/18/2025,Meal 1,"Jif - Peanut Butter, Creamy, 63 g",Peanut Butter, 63 g,363 ,13 ,15 ,31 ,0 ,267 ,6 ,4 
+198,3/18/2025,Meal 1,"Nutribar - Oatmeal and rice bar, 1 pack",Oatmeal and rice bar, 1 pack,101 ,2 ,21 ,1 ,0 ,0 ,0 ,0 
+199,3/18/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+200,3/18/2025,Meal 2,"Chicken Express - Fried Chicken Tender, 50 g (1 pc)",Fried Chicken Tender, 50 g (1 pc),140 ,11 ,8 ,8 ,30 ,400 ,0 ,1 
+201,3/18/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+202,3/18/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+203,3/18/2025,Meal 3,"Mixed salad greens, 1 cup",Mixed salad greens, 1 cup,6 ,1 ,1 ,0 ,0 ,15 ,0 ,0 
+204,3/18/2025,Meal 3,"Rotisserie Chicken, 2.5 serving (3 oz)",Rotisserie Chicken, 2.5 serving (3 oz),451 ,55 ,0 ,26 ,260 ,827 ,0 ,0 
+205,3/18/2025,Meal 3,"Goya - Red Kidney Beans, 0.5 cup",Red Kidney Beans, 0.5 cup,280 ,18 ,52 ,0 ,0 ,10 ,2 ,12 
+206,3/18/2025,Snacks,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+207,3/18/2025,Snacks,"naturebell - moringa 8000mg, 2 capsules",moringa 8000mg, 2 capsules,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 
+208,3/18/2025,Snacks,"Glonuts - Cookies, 1 cookie",Glonuts - Cookies, 1 cookie,115 ,1 ,1 ,13 ,--,--,1 ,--
+209,3/18/2025,Total,TOTALS,,,"2,473 ",170 ,174 ,137 ,597 ,"1,845 ",43 ,28 
+210,3/19/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+211,3/19/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+212,3/19/2025,Meal 1,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 2 cup","Almond Milk, Vanilla", 2 cup,160 ,2 ,28 ,5 ,0 ,300 ,26 ,1 
+213,3/19/2025,Meal 1,"naturebell - moringa 8000mg, 2 capsules",moringa 8000mg, 2 capsules,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 
+214,3/19/2025,Meal 1,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+215,3/19/2025,Meal 2,"BevMc Chicken soup - Soup, 3 cup",BevMc Chicken soup - Soup, 3 cup,444 ,66 ,27 ,--,166 ,491 ,0 ,6 
+216,3/19/2025,Meal 2,"Turkey Ground Patty - Ground Turkey - Cooked, 5 oz",Ground Turkey - Cooked, 5 oz,200 ,29 ,0 ,10 ,81 ,131 ,0 ,0 
+217,3/19/2025,Meal 3,"Beachbody Ur Sweat Potato Bisque - Sweat Potato Soup, 1 cup",Sweat Potato Soup, 1 cup,220 ,3 ,35 ,7 ,0 ,530 ,--,6 
+218,3/19/2025,Snacks,"naturebell - moringa 8000mg, 2 capsules",moringa 8000mg, 2 capsules,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 
+219,3/19/2025,Total,TOTALS,,,"1,599 ",151 ,128 ,46 ,"1,125 ","2,566 ",48 ,14 
+220,3/20/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+221,3/20/2025,Meal 1,"Market Basket - Almonds - Roasted, No Salt, 1 ounce",Almonds - Roasted, 1 ounce,170 ,6 ,6 ,16 ,--,--,2 ,3 
+222,3/20/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+223,3/20/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+224,3/20/2025,Meal 2,"Carrots - Baby, 6 ounce",Carrots - Baby, 6 ounce,70 ,2 ,16 ,0 ,16 ,130 ,10 ,4 
+225,3/20/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+226,3/20/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+227,3/20/2025,Meal 3,"Carrots - Baby, 6 ounce",Carrots - Baby, 6 ounce,70 ,2 ,16 ,0 ,16 ,130 ,10 ,4 
+228,3/20/2025,Meal 3,"Spinach, raw, fresh, 2 cup",Spinach, 2 cup,14 ,2 ,2 ,0 ,0 ,47 ,0 ,1 
+229,3/20/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 1 can drained","Solid White Albacore, Tuna in Water", 1 can drained,130 ,30 ,0 ,1 ,45 ,350 ,--,--
+230,3/20/2025,Snacks,"Strawberry, 1 cup, halves",Strawberry, 1 cup,49 ,1 ,12 ,0 ,0 ,2 ,7 ,3 
+231,3/20/2025,Snacks,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+232,3/20/2025,Snacks,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+233,3/20/2025,Snacks,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 1 cup","Almond Milk, Vanilla", 1 cup,80 ,1 ,14 ,3 ,0 ,150 ,13 ,1 
+234,3/20/2025,Total,TOTALS,,,"2,264 ",171 ,167 ,116 ,"1,262 ","2,299 ",89 ,30 
+235,3/21/2025,Meal 1,"Market Basket - Almonds - Roasted, No Salt, 1 ounce",Almonds - Roasted, 1 ounce,170 ,6 ,6 ,16 ,--,--,2 ,3 
+236,3/21/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+237,3/21/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+238,3/21/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+239,3/21/2025,Meal 2,"Chinese Takeout - Boneless Bbq Spare Ribs, 4 oz",Boneless Bbq Spare Ribs, 4 oz,475 ,28 ,7 ,37 ,--,626 ,--,--
+240,3/21/2025,Meal 2,"Chinese - Orange Chicken, 2 oz",Orange Chicken, 2 oz,95 ,6 ,3 ,5 ,23 ,50 ,0 ,1 
+241,3/21/2025,Meal 2,"Chinese - Fried Rice, 1 cup",Chinese - Fried Rice, 1 cup,228 ,7 ,43 ,3 ,32 ,554 ,1 ,2 
+242,3/21/2025,Meal 3,"Crab Rangoon - Crab Rangoon, 1 puff",Crab Rangoon, 1 puff,79 ,--,8 ,4 ,--,--,--,--
+243,3/21/2025,Meal 3,"Chinese Takeout - Boneless Bbq Spare Ribs, 4 oz",Boneless Bbq Spare Ribs, 4 oz,475 ,28 ,7 ,37 ,--,626 ,--,--
+244,3/21/2025,Meal 3,"Chinese - Fried Rice, 1 cup",Chinese - Fried Rice, 1 cup,228 ,7 ,43 ,3 ,32 ,554 ,1 ,2 
+245,3/21/2025,Snacks,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+246,3/21/2025,Snacks,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+247,3/21/2025,Total,TOTALS,,,"2,849 ",189 ,197 ,149 ,"1,272 ","3,722 ",43 ,13 
+248,3/22/2025,Meal 1,"Red apple, 1 medium",Red apple, 1 medium,125 ,1 ,30 ,0 ,--,2 ,22 ,5 
+249,3/22/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+250,3/22/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+251,3/22/2025,Meal 2,"McClain Chicken Breast Breaded - Breaded  Chicken Breast, 4 oz",Breaded  Chicken Breast, 4 oz,240 ,17 ,19 ,11 ,45 ,560 ,1 ,--
+252,3/22/2025,Meal 2,"Lemon Rice, 1.5 serving",Lemon Rice, 1.5 serving,332 ,7 ,64 ,4 ,10 ,156 ,2 ,0 
+253,3/22/2025,Snacks,"Sunshine - Cheez-it Snapd, 1 pouch (21g)",Cheez-it Snapd, 1 pouch (21g),100 ,1 ,13 ,5 ,0 ,180 ,1 ,1 
+254,3/22/2025,Snacks,"Reese's - Fast Break King Size [Grams], 40 gram",Fast Break King Size [Grams], 40 gram,182 ,4 ,25 ,8 ,0 ,133 ,22 ,1 
+255,3/22/2025,Snacks,"100 Grand - 100 Grand bar fun size*, 1 bar (21g)",100 Grand bar fun size, 1 bar (21g),100 ,1 ,15 ,4 ,5 ,45 ,11 ,0 
+256,3/22/2025,Total,TOTALS,,,"1,724 ",95 ,187 ,72 ,367 ,"1,451 ",63 ,10 
+257,3/23/2025,Meal 1,"Jif - Peanut Butter, Creamy, 84 g",Peanut Butter, 84 g,484 ,18 ,20 ,41 ,0 ,356 ,8 ,5 
+258,3/23/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 2 ounce",Almonds - Roasted, 2 ounce,340 ,11 ,11 ,32 ,--,--,4 ,6 
+259,3/23/2025,Meal 2,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+260,3/23/2025,Meal 2,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+261,3/23/2025,Meal 3,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+262,3/23/2025,Meal 3,"Domino's Large Pepperoni Pizza - Large Pepperoni Pizza, 3 slice",Large Pepperoni Pizza, 3 slice,900 ,36 ,102 ,38 ,90 ,"2,100 ",9 ,6 
+263,3/23/2025,Snacks,"Reese's - Fast Break King Size [Grams], 40 gram",Fast Break King Size [Grams], 40 gram,182 ,4 ,25 ,8 ,0 ,133 ,22 ,1 
+264,3/23/2025,Snacks,"100 Grand - 100 Grand bar fun size*, 1 bar (21g)",100 Grand bar fun size, 1 bar (21g),100 ,1 ,15 ,4 ,5 ,45 ,11 ,0 
+265,3/23/2025,Total,TOTALS,,,"2,831 ",174 ,199 ,161 ,"1,280 ","3,817 ",63 ,18 
+266,3/24/2025,Meal 1,"Kit Kat, 1 bar (1.5 oz)",Kit Kat, 1 bar (1.5 oz),218 ,3 ,27 ,11 ,5 ,23 ,20 ,0 
+267,3/24/2025,Meal 1,"Reese's - Peanut Butter Cups, 15 g",Reese's - Peanut Butter Cups, 15 g,75 ,2 ,9 ,4 ,1 ,54 ,8 ,1 
+268,3/24/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+269,3/24/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+270,3/24/2025,Meal 2,"Market Basket - Almonds - Roasted, No Salt, 1 ounce",Almonds - Roasted, 1 ounce,170 ,6 ,6 ,16 ,--,--,2 ,3 
+271,3/24/2025,Meal 2,"Chicken Thighs - 2 Thighs, 16 oz",Chicken Thighs, 16 oz,805 ,109 ,21 ,40 ,613 ,395 ,0 ,0 
+272,3/24/2025,Meal 3,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+273,3/24/2025,Meal 3,"Sopa De Frijoles Con Lima, 2 ración",Sopa De Frijoles Con Lima, 2 ración,494 ,29 ,62 ,16 ,54 ,438 ,10 ,20 
+274,3/24/2025,Snacks,"Oreos, 6 cookie",Oreos, 6 cookie,306 ,3 ,47 ,13 ,0 ,256 ,27 ,2 
+275,3/24/2025,Snacks,"Reese's - Fast Break King Size [Grams], 18 gram",Fast Break King Size [Grams], 18 gram,82 ,2 ,11 ,4 ,0 ,60 ,10 ,0 
+276,3/24/2025,Total,TOTALS,,,"2,718 ",168 ,269 ,124 ,673 ,"1,407 ",98 ,34 
+277,3/25/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+278,3/25/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+279,3/25/2025,Meal 2,"Chipotle Guacamole - Guacamole* RG, 2 oz",Chipotle Guacamole, 2 oz,115 ,1 ,4 ,11 ,0 ,185 ,1 ,3 
+280,3/25/2025,Meal 2,"Black beans, canned, 0.5 cup","Black beans, canned", 0.5 cup,109 ,7 ,20 ,0 ,0 ,461 ,0 ,8 
+281,3/25/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+282,3/25/2025,Meal 2,"Carnes - Picanha, 6 ounce",Picanha, 6 ounce,425 ,34 ,0 ,26 ,0 ,0 ,0 ,0 
+283,3/25/2025,Meal 3,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+284,3/25/2025,Meal 3,"Caldo De Res, 2 cups",Caldo De Res, 2 cups,369 ,38 ,40 ,7 ,76 ,"2,161 ",10 ,8 
+285,3/25/2025,Meal 3,"Chocolate Doughnut - Chocolate Doughnut, 100 g",Chocolate Doughnut, 100 g,437 ,7 ,48 ,25 ,--,--,12 ,--
+286,3/25/2025,Snacks,"Butterfinger - Mini Butterfinger Bar, 3 bars",Mini Butterfinger Bar, 3 bars,140 ,3 ,20 ,6 ,0 ,90 ,12 ,1 
+287,3/25/2025,Snacks,"Kit Kat - Mini Mini, 16.7 gr",Kit Kat - Mini Mini, 16.7 gr,87 ,1 ,10 ,5 ,--,--,8 ,0 
+288,3/25/2025,Snacks,"Almond Joy - Mini, 1 Mini; 17 g",Almond Joy - Mini, 1 Mini; 17 g,80 ,1 ,10 ,5 ,0 ,20 ,8 ,1 
+289,3/25/2025,Total,TOTALS,,,"2,535 ",110 ,283 ,105 ,76 ,"3,100 ",72 ,30 
+290,3/26/2025,Meal 1,"Chocolate Doughnut - Chocolate Doughnut, 30 g",Chocolate Doughnut, 30 g,131 ,2 ,14 ,7 ,--,--,4 ,--
+291,3/26/2025,Meal 1,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+292,3/26/2025,Meal 2,"Chipotle - Double Chicken, 8 ounce",Chipotle - Double Chicken, 8 ounce,380 ,64 ,2 ,13 ,230 ,740 ,2 ,0 
+293,3/26/2025,Meal 2,"Chipotle Guacamole - Guacamole* RG, 4 oz",Chipotle Guacamole, 4 oz,230 ,2 ,8 ,22 ,0 ,370 ,1 ,6 
+294,3/26/2025,Meal 2,"Chipotle - Beans, 4 ounce",Chipotle - Beans, 4 ounce,120 ,7 ,23 ,1 ,0 ,250 ,1 ,11 
+295,3/26/2025,Meal 2,"Chipotle - Brown Rice (Only), 4 ounce",Brown Rice (Only), 4 ounce,200 ,4 ,32 ,7 ,0 ,165 ,1 ,3 
+296,3/26/2025,Meal 3,"Rotisserie Chicken, 2.5 serving (3 oz)",Rotisserie Chicken, 2.5 serving (3 oz),451 ,55 ,0 ,26 ,260 ,827 ,0 ,0 
+297,3/26/2025,Meal 3,"Carrots, 1 cup",Carrots, 1 cup,49 ,1 ,11 ,0 ,0 ,83 ,6 ,3 
+298,3/26/2025,Meal 3,"Spinach, raw, fresh, 2 cup",Spinach, 2 cup,14 ,2 ,2 ,0 ,0 ,47 ,0 ,1 
+299,3/26/2025,Snacks,"Oreo - Double Stuff, 4 cookie(29g)",Oreo - Double Stuff, 4 cookie(29g),280 ,2 ,42 ,14 ,0 ,190 ,26 ,2 
+300,3/26/2025,Total,TOTALS,,,"2,008 ",141 ,157 ,96 ,490 ,"2,800 ",54 ,27 
+301,3/27/2025,Meal 1,"Lorna Doone - Cookie, 1 cup",Cookie, 1 cup,140 ,1 ,19 ,6 ,0 ,150 ,5 ,0 
+302,3/27/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+303,3/27/2025,Meal 2,"Dunkin' Donuts - Hashbrowns, 9 count",Hashbrowns, 9 count,200 ,2 ,22 ,11 ,0 ,730 ,0 ,3 
+304,3/27/2025,Meal 2,"Goya - Red Kidney Beans, 134 g",Red Kidney Beans, 134 g,447 ,29 ,83 ,0 ,0 ,16 ,3 ,19 
+305,3/27/2025,Meal 2,"Carrots, 1 cup",Carrots, 1 cup,49 ,1 ,11 ,0 ,0 ,83 ,6 ,3 
+306,3/27/2025,Meal 2,"Rotisserie Chicken, 2.5 serving (3 oz)",Rotisserie Chicken, 2.5 serving (3 oz),451 ,55 ,0 ,26 ,260 ,827 ,0 ,0 
+307,3/27/2025,Meal 3,"White Jasmine Rice (Cooked - White Rice (Cooked), 1.5 cup (158g)",White Rice (Cooked), 1.5 cup (158g),308 ,6 ,68 ,0 ,0 ,3 ,0 ,2 
+308,3/27/2025,Meal 3,"Jamaican - Jerk Chicken, 6 oz (154g)",Jamaican - Jerk Chicken, 6 oz (154g),324 ,21 ,11 ,21 ,15 ,577 ,1 ,--
+309,3/27/2025,Snacks,"Oreo - Double Stuff, 2 cookie(29g)",Oreo - Double Stuff, 2 cookie(29g),140 ,1 ,21 ,7 ,0 ,95 ,13 ,1 
+310,3/27/2025,Snacks,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+311,3/27/2025,Total,TOTALS,,,"2,422 ",126 ,276 ,91 ,275 ,"2,660 ",49 ,35 
+312,3/28/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+313,3/28/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+314,3/28/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+315,3/28/2025,Meal 2,"Goya - Red Kidney Beans, 134 g",Red Kidney Beans, 134 g,447 ,29 ,83 ,0 ,0 ,16 ,3 ,19 
+316,3/28/2025,Meal 2,"Carrots, 1 cup",Carrots, 1 cup,49 ,1 ,11 ,0 ,0 ,83 ,6 ,3 
+317,3/28/2025,Meal 2,"Rotisserie Chicken, 2.5 serving (3 oz)",Rotisserie Chicken, 2.5 serving (3 oz),451 ,55 ,0 ,26 ,260 ,827 ,0 ,0 
+318,3/28/2025,Meal 3,"Homemade - Fried Banana, 1 medium banana",Fried Banana, 1 medium banana,105 ,1 ,27 ,0 ,--,1 ,14 ,3 
+319,3/28/2025,Meal 3,"Broccoli - Broccoli Steamed, 2 cup",Broccoli Steamed, 2 cup,62 ,5 ,12 ,1 ,0 ,60 ,3 ,5 
+320,3/28/2025,Meal 3,"Carnes - Picanha, 8 ounce",Picanha, 8 ounce,567 ,45 ,0 ,34 ,0 ,0 ,0 ,0 
+321,3/28/2025,Meal 3,"Beets - Cooked, boiled, drained, 1 cup slices",Beets - Cooked, 1 cup slices,75 ,3 ,17 ,0 ,0 ,131 ,14 ,3 
+322,3/28/2025,Snacks,"Oreo - Double Stuff, 3 cookie(29g)",Oreo - Double Stuff, 3 cookie(29g),210 ,2 ,32 ,11 ,0 ,143 ,20 ,2 
+323,3/28/2025,Snacks,"Brahma - Beer, 12 fluid ounce",Brahma - Beer, 12 fluid ounce,160 ,1 ,14 ,0 ,--,--,--,--
+324,3/28/2025,Snacks,"Swan's - Chocolate Moose Cake, 1 piece",Chocolate Moose Cake, 1 piece,430 ,5 ,55 ,23 ,--,--,--,--
+325,3/28/2025,Total,TOTALS,,,"3,199 ",181 ,296 ,133 ,"1,120 ","1,700 ",81 ,42 
+326,3/29/2025,Meal 1,"Oreo - Double Stuff, 3 cookie(29g)",Oreo - Double Stuff, 3 cookie(29g),210 ,2 ,32 ,11 ,0 ,143 ,20 ,2 
+327,3/29/2025,Total,TOTALS,,,210 ,2 ,32 ,11 ,0 ,143 ,20 ,2 
+328,3/30/2025,Meal 1,"Oreo - Double Stuff, 3 cookie(29g)",Oreo - Double Stuff, 3 cookie(29g),210 ,2 ,32 ,11 ,0 ,143 ,20 ,2 
+329,3/30/2025,Meal 1,"Pancake, plain, 3 medium pancake",Pancake, 3 medium pancake,423 ,11 ,53 ,18 ,99 ,762 ,11 ,3 
+330,3/30/2025,Total,TOTALS,,,633 ,13 ,85 ,29 ,99 ,905 ,31 ,5 
+331,3/31/2025,Meal 1,"Homemade - Fried Banana, 1 medium banana",Fried Banana, 1 medium banana,105 ,1 ,27 ,0 ,--,1 ,14 ,3 
+332,3/31/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+333,3/31/2025,Meal 1,"Market Basket - Eggs, 2 egg",Eggs, 2 egg,140 ,12 ,2 ,9 ,430 ,130 ,0 ,0 
+334,3/31/2025,Meal 2,"Fried Beans - Fried Beans, 4.5 oz",Fried Beans, 4.5 oz,218 ,9 ,28 ,8 ,--,--,--,--
+335,3/31/2025,Meal 2,"Spinach, raw, fresh, 2 cup",Spinach, 2 cup,14 ,2 ,2 ,0 ,0 ,47 ,0 ,1 
+336,3/31/2025,Meal 2,"Rotisserie Chicken, 2.5 serving (3 oz)",Rotisserie Chicken, 2.5 serving (3 oz),451 ,55 ,0 ,26 ,260 ,827 ,0 ,0 
+337,3/31/2025,Meal 3,"Fried Beans - Fried Beans, 4.5 oz",Fried Beans, 4.5 oz,218 ,9 ,28 ,8 ,--,--,--,--
+338,3/31/2025,Meal 3,"Spinach, raw, fresh, 2 cup",Spinach, 2 cup,14 ,2 ,2 ,0 ,0 ,47 ,0 ,1 
+339,3/31/2025,Meal 3,"Rotisserie Chicken, 2.5 serving (3 oz)",Rotisserie Chicken, 2.5 serving (3 oz),451 ,55 ,0 ,26 ,260 ,827 ,0 ,0 
+340,3/31/2025,Snacks,"Oreo - Double Stuff, 3 cookie(29g)",Oreo - Double Stuff, 3 cookie(29g),210 ,2 ,32 ,11 ,0 ,143 ,20 ,2 
+341,3/31/2025,Snacks,"Alpina - Arequipa, 42 gramo",Alpina - Arequipa, 42 gramo,133 ,3 ,22 ,3 ,--,--,--,--
+342,3/31/2025,Total,TOTALS,,,"2,196 ",159 ,153 ,111 ,950 ,"2,200 ",38 ,10 
+343,4/1/2025,Meal 1,"White Jasmine Rice (Cooked - White Rice (Cooked), 1.5 cup (158g)",White Rice (Cooked), 1.5 cup (158g),308 ,6 ,68 ,0 ,0 ,3 ,0 ,2 
+344,4/1/2025,Meal 1,"Chicken breast, grilled, skinless, 3 oz",Chicken breast, 3 oz,150 ,25 ,0 ,5 ,82 ,300 ,0 ,0 
+345,4/1/2025,Meal 1,"Market Basket - Eggs, 3 egg",Eggs, 3 egg,210 ,18 ,3 ,14 ,645 ,195 ,0 ,0 
+346,4/1/2025,Meal 1,"Oreo - Double Stuff, 4 cookie(29g)",Oreo - Double Stuff, 4 cookie(29g),280 ,2 ,42 ,14 ,0 ,190 ,26 ,2 
+347,4/1/2025,Meal 2,"Chipotle - Cilantro-Lime Brown Rice, 1 cup",Cilantro-Lime Brown Rice, 1 cup,420 ,8 ,62 ,12 ,0 ,380 ,0 ,4 
+348,4/1/2025,Meal 2,"Chipotle - Double Chicken, 8 ounce",Chipotle - Double Chicken, 8 ounce,380 ,64 ,2 ,13 ,230 ,740 ,2 ,0 
+349,4/1/2025,Meal 2,"Generic - Iced Matcha Latte, 1 16oz",Iced Matcha Latte, 1 16oz,240 ,11 ,40 ,5 ,5 ,210 ,34 ,--
+350,4/1/2025,Meal 3,"Lettuce, 2 cup, shredded",Lettuce, 2 cup,10 ,1 ,2 ,0 ,0 ,13 ,1 ,1 
+351,4/1/2025,Meal 3,"Chicken breast, grilled, skinless, 6 oz",Chicken breast, 6 oz,299 ,50 ,0 ,9 ,163 ,600 ,0 ,0 
+352,4/1/2025,Meal 3,"Carrots, 1 cup",Carrots, 1 cup,49 ,1 ,11 ,0 ,0 ,83 ,6 ,3 
+353,4/1/2025,Snacks,"Coca Cola - Coca-Cola, 1 can",Coca Cola, 1 can,160 ,0 ,42 ,0 ,--,40 ,42 ,--
+354,4/1/2025,Total,TOTALS,,,"2,506 ",186 ,272 ,72 ,"1,125 ","2,754 ",111 ,12 
+355,4/2/2025,Meal 1,"Chipotle - Double Chicken, 9 ounce",Chipotle - Double Chicken, 9 ounce,428 ,72 ,2 ,15 ,259 ,833 ,2 ,0 
+356,4/2/2025,Meal 1,"Chipotle - Beans, 5 ounce",Chipotle - Beans, 5 ounce,150 ,9 ,29 ,1 ,0 ,313 ,1 ,14 
+357,4/2/2025,Meal 1,"Chipotle Guacamole - Guacamole* RG, 4 oz",Chipotle Guacamole, 4 oz,230 ,2 ,8 ,22 ,0 ,370 ,1 ,6 
+358,4/2/2025,Meal 2,"Generic - Chicken/Rosemary/Parmesan Tortellini, 3 cup cooked",Chicken/Rosemary/Parmesan Tortellini, 3 cup cooked,690 ,45 ,75 ,24 ,165 ,"1,350 ",3 ,3 
+359,4/2/2025,Meal 2,"Market Basket - Solid White Albacore, Tuna in Water, 1 can drained","Solid White Albacore, Tuna in Water", 1 can drained,130 ,30 ,0 ,1 ,45 ,350 ,--,--
+360,4/2/2025,Meal 3,"Post - Honey Bunches of Oats, Crispy with Almonds, 1.5 cup","Honey Bunches of Oats, Crispy with Almonds", 1.5 cup,255 ,5 ,51 ,5 ,0 ,270 ,14 ,3 
+361,4/2/2025,Meal 3,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 1 cup","Almond Milk, Vanilla", 1 cup,80 ,1 ,14 ,3 ,0 ,150 ,13 ,1 
+362,4/2/2025,Meal 3,"Orange, 1 medium",Orange, 1 medium,62 ,1 ,15 ,0 ,0 ,0 ,12 ,3 
+363,4/2/2025,Snacks,"Oreos, 5 cookie",Oreos, 5 cookie,255 ,3 ,39 ,11 ,0 ,213 ,22 ,2 
+364,4/2/2025,Total,TOTALS,,,"2,280 ",168 ,233 ,82 ,469 ,"3,849 ",68 ,32 
+365,4/3/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+366,4/3/2025,Meal 1,"Banana, 2 large",Banana, 2 large,242 ,3 ,62 ,1 ,0 ,3 ,33 ,7 
+367,4/3/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+368,4/3/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+369,4/3/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+370,4/3/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+371,4/3/2025,Meal 2,"Goya - Red Kidney, 0.5 cup",Red Kidney Beans, 0.5 cup,280 ,18 ,52 ,0 ,0 ,10 ,2 ,12 
+372,4/3/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 1 can drained","Solid White Albacore, Tuna in Water", 1 can drained,130 ,30 ,0 ,1 ,45 ,350 ,--,--
+373,4/3/2025,Meal 3,"White Jasmine Rice (Cooked - White Rice (Cooked), 0.5 cup (158g)",White Rice (Cooked), 0.5 cup (158g),103 ,2 ,23 ,0 ,0 ,1 ,0 ,1 
+374,4/3/2025,Meal 3,"Goya - Red Kidney, 0.5 cup",Red Kidney Beans, 0.5 cup,280 ,18 ,52 ,0 ,0 ,10 ,2 ,12 
+375,4/3/2025,Total,TOTALS,,,"2,307 ",188 ,270 ,60 ,"1,230 ","1,737 ",50 ,36 
+376,4/4/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+377,4/4/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+378,4/4/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+379,4/4/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+380,4/4/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+381,4/4/2025,Meal 2,"Goya - Arroz Con Gandules, 0.5 cup",Arroz Con Gandules, 0.5 cup,320 ,8 ,70 ,1 ,"1,280 ","1,280 ",10 ,--
+382,4/4/2025,Snacks,"Parlor Doughnuts - Turtle Doughnut, 1 Doughnut",Turtle Doughnut, 1 Doughnut,458 ,9 ,72 ,17 ,21 ,458 ,28 ,38 
+383,4/4/2025,Snacks,"Oreos, 3 cookie",Oreos, 3 cookie,153 ,2 ,23 ,6 ,0 ,128 ,13 ,1 
+384,4/4/2025,Snacks,"Mandarin, 2 fruit",Mandarin, 2 fruit,90 ,1 ,23 ,1 ,0 ,3 ,18 ,3 
+385,4/4/2025,Total,TOTALS,,,"2,209 ",134 ,255 ,83 ,"2,486 ","3,231 ",99 ,49 
+386,4/5/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+387,4/5/2025,Meal 1,"Market Basket - Eggs, 1 egg",Eggs, 1 egg,70 ,6 ,1 ,5 ,215 ,65 ,0 ,0 
+388,4/5/2025,Meal 1,"White bread, toasted, 2 slice",White bread, 2 slice,149 ,5 ,27 ,2 ,0 ,262 ,3 ,1 
+389,4/5/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+390,4/5/2025,Meal 2,"Red apple, 1 medium",Red apple, 1 medium,125 ,1 ,30 ,0 ,--,2 ,22 ,5 
+391,4/5/2025,Meal 3,"Perú - Chicharrón De Pescado Con Yuca, 1 plato",Chicharrón De Pescado Con Yuca, 1 plato,875 ,35 ,--,--,--,--,--,--
+392,4/5/2025,Snacks,"Swan's - Chocolate Moose Cake, 1 piece",Chocolate Moose Cake, 1 piece,430 ,5 ,55 ,23 ,--,--,--,--
+393,4/5/2025,Snacks,"Reese's - Miniatures, 8 pieces",Reese's - Miniatures, 8 pieces,352 ,6 ,42 ,21 ,8 ,208 ,38 ,3 
+394,4/5/2025,Total,TOTALS,,,"2,646 ",122 ,176 ,91 ,530 ,912 ,67 ,12 
+395,4/6/2025,Meal 1,"Generic - Chicken/Rosemary/Parmesan Tortellini, 5 cup cooked",Chicken/Rosemary/Parmesan Tortellini, 5 cup cooked,"1,150 ",75 ,125 ,40 ,275 ,"2,250 ",5 ,5 
+396,4/6/2025,Meal 2,"Goya - Red Kidney, 1 cup",Red Kidney Beans, 1 cup,560 ,36 ,104 ,0 ,0 ,20 ,4 ,24 
+397,4/6/2025,Meal 2,"Market Basket - Solid White Albacore, Tuna in Water, 2 can drained","Solid White Albacore, Tuna in Water", 2 can drained,260 ,60 ,0 ,2 ,90 ,700 ,--,--
+398,4/6/2025,Meal 3,"Market Basket - Eggs, 2 egg",Eggs, 2 egg,140 ,12 ,2 ,9 ,430 ,130 ,0 ,0 
+399,4/6/2025,Total,TOTALS,,,"2,110 ",183 ,231 ,51 ,795 ,"3,100 ",9 ,29 
+400,4/7/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+401,4/7/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+402,4/7/2025,Meal 2,"Goya - Red Kidney, 0.5 cup",Red Kidney Beans, 0.5 cup,280 ,18 ,52 ,0 ,0 ,10 ,2 ,12 
+403,4/7/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+404,4/7/2025,Meal 2,"Puerto Rican Style - White, Rice Cooked With (Fat) Oil, Puerto Rican Style (Arroz Blanco, 1 cup cooked = ( 8 oz )",Puerto Rican Style (Arroz Blanco), 1 cup cooked = ( 8 oz ),333 ,5 ,57 ,9 ,0 ,732 ,0 ,1 
+405,4/7/2025,Meal 3,"Hellman's - Mayonnaise, 3 tbsp",Mayonnaise, 3 tbsp,270 ,0 ,0 ,30 ,15 ,270 ,0 ,0 
+406,4/7/2025,Meal 3,"Lettuce, 2 cup, shredded",Lettuce, 2 cup,10 ,1 ,2 ,0 ,0 ,13 ,1 ,1 
+407,4/7/2025,Meal 3,"Red onion, 3 tbsp, chopped",Red onion, 3 tbsp,12 ,0 ,3 ,0 ,0 ,1 ,1 ,1 
+408,4/7/2025,Meal 3,"Tomato, 1 medium",Tomato, 1 medium,22 ,1 ,5 ,0 ,0 ,6 ,3 ,1 
+409,4/7/2025,Meal 3,"Celery sticks, 2 stick, medium",Celery sticks, 2 stick,11 ,1 ,2 ,0 ,0 ,64 ,1 ,1 
+410,4/7/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 1 can drained","Solid White Albacore, Tuna in Water", 1 can drained,130 ,30 ,0 ,1 ,45 ,350 ,--,--
+411,4/7/2025,Snacks,"Reese's - Miniatures, 6 pieces",Reese's - Miniatures, 6 pieces,264 ,5 ,31 ,16 ,6 ,156 ,29 ,2 
+412,4/7/2025,Total,TOTALS,,,"2,098 ",126 ,204 ,96 ,373 ,"1,978 ",58 ,26 
+413,4/8/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+414,4/8/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+415,4/8/2025,Meal 1,"Market Basket - Eggs, 1 egg",Eggs, 1 egg,70 ,6 ,1 ,5 ,215 ,65 ,0 ,0 
+416,4/8/2025,Meal 1,"Fried Beans - Fried Beans, 3 oz",Fried Beans, 3 oz,145 ,6 ,19 ,5 ,--,--,--,--
+417,4/8/2025,Meal 1,"White bread, toasted, 2 slice",White bread, 2 slice,149 ,5 ,27 ,2 ,0 ,262 ,3 ,1 
+418,4/8/2025,Meal 2,"Breyers - Oreo Birthday Cake Icecream, 4 Cup",Oreo Birthday Cake Icecream, 4 Cup,"1,040 ",16 ,168 ,36 ,40 ,480 ,104 ,0 
+419,4/8/2025,Meal 3,"Goya - Red Kidney, 0.5 cup",Red Kidney Beans, 0.5 cup,280 ,18 ,52 ,0 ,0 ,10 ,2 ,12 
+420,4/8/2025,Meal 3,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+421,4/8/2025,Meal 3,"Puerto Rican Style - White, Rice Cooked With (Fat) Oil, Puerto Rican Style (Arroz Blanco, 1 cup cooked = ( 8 oz )",Puerto Rican Style (Arroz Blanco), 1 cup cooked = ( 8 oz ),333 ,5 ,57 ,9 ,0 ,732 ,0 ,1 
+422,4/8/2025,Total,TOTALS,,,"2,783 ",121 ,376 ,97 ,562 ,"1,925 ",130 ,21 
+423,4/9/2025,Meal 1,"Homemade - Fried Banana, 1.5 medium banana",Fried Banana, 1.5 medium banana,158 ,2 ,41 ,1 ,--,2 ,21 ,5 
+424,4/9/2025,Meal 1,"Homemade - Chicharron, 8.25 oz",Chicharron, 8.25 oz,660 ,74 ,0 ,41 ,619 ,50 ,--,--
+425,4/9/2025,Meal 2,"Homemade - Chicharron, 8.25 oz",Chicharron, 8.25 oz,660 ,74 ,0 ,41 ,619 ,50 ,--,--
+426,4/9/2025,Meal 2,"Mashed Potatoes, 1 cup",Mashed Potatoes, 1 cup,237 ,4 ,36 ,9 ,2 ,699 ,3 ,3 
+427,4/9/2025,Meal 2,"White Jasmine Rice (Cooked - White Rice (Cooked), 1 cup (158g)",White Rice (Cooked), 1 cup (158g),205 ,4 ,45 ,0 ,0 ,2 ,0 ,1 
+428,4/9/2025,Meal 2,"Chicken Thighs - 2 Thighs, 4 oz",Chicken Thighs, 4 oz,201 ,27 ,5 ,10 ,153 ,99 ,0 ,0 
+429,4/9/2025,Meal 3,"Hellman's - Mayonnaise, 3 tbsp",Mayonnaise, 3 tbsp,270 ,0 ,0 ,30 ,15 ,270 ,0 ,0 
+430,4/9/2025,Meal 3,"Lettuce, 2 cup, shredded",Lettuce, 2 cup,10 ,1 ,2 ,0 ,0 ,13 ,1 ,1 
+431,4/9/2025,Meal 3,"Red onion, 3 tbsp, chopped",Red onion, 3 tbsp,12 ,0 ,3 ,0 ,0 ,1 ,1 ,1 
+432,4/9/2025,Meal 3,"Tomato, 1 medium",Tomato, 1 medium,22 ,1 ,5 ,0 ,0 ,6 ,3 ,1 
+433,4/9/2025,Meal 3,"Celery sticks, 2 stick, medium",Celery sticks, 2 stick,11 ,1 ,2 ,0 ,0 ,64 ,1 ,1 
+434,4/9/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 1 can drained","Solid White Albacore, Tuna in Water", 1 can drained,130 ,30 ,0 ,1 ,45 ,350 ,--,--
+435,4/9/2025,Total,TOTALS,,,"2,576 ",218 ,139 ,133 ,"1,453 ","1,606 ",30 ,13 
+436,4/10/2025,Meal 1,"Strawberry, 1 cup, halves",Strawberry, 1 cup,49 ,1 ,12 ,0 ,0 ,2 ,7 ,3 
+437,4/10/2025,Meal 1,"Blueberries, 1 cup",Blueberries, 1 cup,42 ,1 ,11 ,0 ,0 ,1 ,7 ,2 
+438,4/10/2025,Meal 1,"Almond Breeze - Almond Breeze, Almond Milk, Vanilla, 1 cup","Almond Milk, Vanilla", 1 cup,80 ,1 ,14 ,3 ,0 ,150 ,13 ,1 
+439,4/10/2025,Meal 1,"Market Basket - Fat Free Cottage Cheese, 200 gram(s)",Fat Free Cottage Cheese, 200 gram(s),142 ,25 ,11 ,0 ,18 ,726 ,9 ,0 
+440,4/10/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+441,4/10/2025,Meal 2,"Chicken Thighs - 2 Thighs, 3 oz",Chicken Thighs, 3 oz,151 ,21 ,4 ,8 ,115 ,74 ,0 ,0 
+442,4/10/2025,Meal 2,"Guerreo - Burrito Tortilla, 1 tortilla",Burrito Tortilla, 1 tortilla,130 ,2 ,15 ,3 ,0 ,240 ,0 ,1 
+443,4/10/2025,Meal 2,"Hellman's - Mayonnaise, 3 tbsp",Mayonnaise, 3 tbsp,270 ,0 ,0 ,30 ,15 ,270 ,0 ,0 
+444,4/10/2025,Meal 2,"Lettuce, 2 cup, shredded",Lettuce, 2 cup,10 ,1 ,2 ,0 ,0 ,13 ,1 ,1 
+445,4/10/2025,Meal 2,"Red onion, 3 tbsp, chopped",Red onion, 3 tbsp,12 ,0 ,3 ,0 ,0 ,1 ,1 ,1 
+446,4/10/2025,Meal 2,"Tomato, 1 medium",Tomato, 1 medium,22 ,1 ,5 ,0 ,0 ,6 ,3 ,1 
+447,4/10/2025,Meal 2,"Celery sticks, 2 stick, medium",Celery sticks, 2 stick,11 ,1 ,2 ,0 ,0 ,64 ,1 ,1 
+448,4/10/2025,Meal 3,"Chicken Thighs - 2 Thighs, 6 oz",Chicken Thighs, 6 oz,302 ,41 ,8 ,15 ,230 ,148 ,0 ,0 
+449,4/10/2025,Meal 3,"Market Basket - Solid White Albacore, Tuna in Water, 1 can drained","Solid White Albacore, Tuna in Water", 1 can drained,130 ,30 ,0 ,1 ,45 ,350 ,--,--
+450,4/10/2025,Meal 3,"Hellman's - Mayonnaise, 3 tbsp",Mayonnaise, 3 tbsp,270 ,0 ,0 ,30 ,15 ,270 ,0 ,0 
+451,4/10/2025,Meal 3,"Lettuce, 2 cup, shredded",Lettuce, 2 cup,10 ,1 ,2 ,0 ,0 ,13 ,1 ,1 
+452,4/10/2025,Meal 3,"Red onion, 3 tbsp, chopped",Red onion, 3 tbsp,12 ,0 ,3 ,0 ,0 ,1 ,1 ,1 
+453,4/10/2025,Meal 3,"Tomato, 1 medium",Tomato, 1 medium,22 ,1 ,5 ,0 ,0 ,6 ,3 ,1 
+454,4/10/2025,Meal 3,"Celery sticks, 2 stick, medium",Celery sticks, 2 stick,11 ,1 ,2 ,0 ,0 ,64 ,1 ,1 
+455,4/10/2025,Snacks,Snacks,,,,,,,,,,
+456,4/10/2025,Snacks,"Food Should Taste Good - Tortilla Chips, Sweet Potato, 2 pouch","Tortilla Chips, Sweet Potato", 2 pouch,440 ,4 ,56 ,22 ,0 ,240 ,8 ,6 
+457,4/10/2025,Total,TOTALS,,,"2,396 ",156 ,159 ,130 ,"1,298 ","2,899 ",56 ,21 
+458,4/11/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+459,4/11/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+460,4/11/2025,Meal 2,"Broccoli - Broccoli Steamed, 2 cup",Broccoli Steamed, 2 cup,62 ,5 ,12 ,1 ,0 ,60 ,3 ,5 
+461,4/11/2025,Meal 2,"Carrots, 2 cup",Carrots, 2 cup,98 ,2 ,23 ,1 ,0 ,166 ,11 ,7 
+462,4/11/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+463,4/11/2025,Meal 3,"Beachbody Chicken and Mushroom Pasta - Beachbody Chicken and Mushroom Pasta, 3 serving",Beachbody Chicken and Mushroom Pasta, 3 serving,939 ,81 ,78 ,30 ,162 ,384 ,12 ,15 
+464,4/11/2025,Meal 3,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+465,4/11/2025,Snacks,Snacks,,,,,,,,,,
+466,4/11/2025,Snacks,"Downeast - Downeast Original Blend Cider, 24 fl oz",Downeast Original Blend Cider, 24 fl oz,364 ,0 ,40 ,0 ,0 ,0 ,34 ,0 
+467,4/11/2025,Snacks,"Oreos, 4 cookie",Oreos, 4 cookie,204 ,2 ,31 ,8 ,0 ,171 ,18 ,1 
+468,4/11/2025,Total,TOTALS,,,"2,836 ",210 ,247 ,100 ,776 ,"1,354 ",99 ,35 
+469,4/12/2025,Meal 1,"Denny's garlic bread - Garlic Bread, 4 slices",Garlic Bread, 4 slices,340 ,8 ,42 ,18 ,0 ,700 ,0 ,2 
+470,4/12/2025,Meal 1,"Beachbody Chicken and Mushroom Pasta - Beachbody Chicken and Mushroom Pasta, 2 serving",Beachbody Chicken and Mushroom Pasta, 2 serving,626 ,54 ,52 ,20 ,108 ,256 ,8 ,10 
+471,4/12/2025,Meal 1,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+472,4/12/2025,Meal 2,"Tescos Meatballs - Meatballs, 4 balls",Meatballs, 4 balls,240 ,20 ,3 ,16 ,0 ,1 ,1 ,0 
+473,4/12/2025,Meal 2,"Cooked Pasta, 1 cup",Cooked Pasta, 1 cup,220 ,8 ,43 ,1 ,0 ,325 ,1 ,3 
+474,4/12/2025,Meal 2,"Mixed salad greens, 4 cup",Mixed salad greens, 4 cup,24 ,2 ,4 ,0 ,0 ,62 ,1 ,2 
+475,4/12/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+476,4/12/2025,Meal 3,"Lemon cake, 2 slice",Lemon cake, 2 slice,"1,187 ",8 ,182 ,47 ,151 ,"1,064 ",134 ,1 
+477,4/12/2025,Snacks,Snacks,,,,,,,,,,
+478,4/12/2025,Snacks,"Miller Lite - Miller Lite Beer, 36 fl oz",Miller Lite Beer, 36 fl oz,288 ,3 ,10 ,0 ,0 ,0 ,0 ,0 
+479,4/12/2025,Snacks,"High Noon - Peach Vodka & Soda, 12 oz",Peach Vodka & Soda, 12 oz,100 ,0 ,2 ,0 ,--,--,2 ,--
+480,4/12/2025,Snacks,"Medalla - Medalla Premium Light Beer, 24 fl oz",Medalla Premium Light Beer, 24 fl oz,196 ,2 ,6 ,0 ,--,--,--,--
+481,4/12/2025,Snacks,"Marshmallows, 2 large, regular",Marshmallows, 2 large,51 ,0 ,13 ,0 ,0 ,13 ,9 ,0 
+482,4/12/2025,Total,TOTALS,,,"4,078 ",215 ,379 ,142 ,873 ,"2,815 ",156 ,18 
+483,4/13/2025,Meal 2,"Brahma - Duplo malte, 350 ml",Brahma Duplo malte, 350 ml,144 ,0 ,12 ,0 ,0 ,0 ,12 ,0 
+484,4/13/2025,Meal 2,"Yuca fries, 1 cup",Yuca fries, 1 cup,377 ,2 ,49 ,20 ,0 ,216 ,2 ,2 
+485,4/13/2025,Meal 2,"Carrots, 1 cup",Carrots, 1 cup,49 ,1 ,11 ,0 ,0 ,83 ,6 ,3 
+486,4/13/2025,Meal 2,"Beets - Cooked, boiled, drained, 1 cup slices",Beets - Cooked, 1 cup slices,75 ,3 ,17 ,0 ,0 ,131 ,14 ,3 
+487,4/13/2025,Meal 2,"Carnes - Picanha, 10 ounce",Picanha, 10 ounce,709 ,57 ,0 ,43 ,0 ,0 ,0 ,0 
+488,4/13/2025,Meal 3,"Chinese Food - Boneless Spare Ribs With Fried Rice, 1.5 cup cooked",Boneless Spare Ribs With Fried Rice, 1.5 cup cooked,345 ,10 ,65 ,5 ,48 ,833 ,1 ,2 
+489,4/13/2025,Meal 3,"Food Should Taste Good - Tortilla Chips, Sweet Potato, 1 pouch","Tortilla Chips, Sweet Potato", 1 pouch,220 ,2 ,28 ,11 ,0 ,120 ,4 ,3 
+490,4/13/2025,Meal 3,"Denny's garlic bread - Garlic Bread, 2 slices",Garlic Bread, 2 slices,170 ,4 ,21 ,9 ,0 ,350 ,0 ,1 
+491,4/13/2025,Meal 3,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+492,4/13/2025,Total,TOTALS,,,"2,492 ",134 ,214 ,108 ,355 ,"1,930 ",39 ,14 
+493,4/14/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+494,4/14/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+495,4/14/2025,Meal 2,"Chinese Food - Boneless Spare Ribs With Fried Rice, 1.5 cup cooked",Boneless Spare Ribs With Fried Rice, 1.5 cup cooked,345 ,10 ,65 ,5 ,48 ,833 ,1 ,2 
+496,4/14/2025,Meal 2,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+497,4/14/2025,Meal 3,"Chinese Food - Boneless Spare Ribs With Fried Rice, 1.5 cup cooked",Boneless Spare Ribs With Fried Rice, 1.5 cup cooked,345 ,10 ,65 ,5 ,48 ,833 ,1 ,2 
+498,4/14/2025,Meal 3,"Chicken Thighs - 2 Thighs, 8 oz",Chicken Thighs, 8 oz,403 ,55 ,11 ,20 ,307 ,197 ,0 ,0 
+500,4/14/2025,Snacks,"Got Milk - Cookies & Cream Wafer Rolls, 1 stick",Cookies & Cream Wafer Rolls, 1 stick,78 ,1 ,11 ,3 ,0 ,9 ,8 ,0 
+501,4/14/2025,Total,TOTALS,,,"1,937 ",141 ,204 ,73 ,710 ,"2,248 ",31 ,11 
+502,4/15/2025,Meal 1,"Market Basket - Eggs, 4 egg",Eggs, 4 egg,280 ,24 ,4 ,18 ,860 ,260 ,0 ,0 
+503,4/15/2025,Meal 1,"Jif - Peanut Butter, Creamy, 42 g",Peanut Butter, 42 g,242 ,9 ,10 ,20 ,0 ,178 ,4 ,3 
+504,4/15/2025,Meal 1,"Banana, 1 large",Banana, 1 large,121 ,1 ,31 ,0 ,0 ,1 ,17 ,4 
+505,4/15/2025,Meal 2,"World's Finest - Chocolate Bar, 1.2 bar",Chocolate Bar, 1.2 bar,276 ,4 ,30 ,16 ,12 ,42 ,29 ,1 
+506,4/15/2025,Meal 2,"Pepperoni Pizza, 2 slice",Pepperoni Pizza, 2 slice,626 ,26 ,71 ,26 ,56 ,"1,521 ",7 ,5 
+507,4/15/2025,Meal 3,"Chicken Thighs - 2 Thighs, 12 oz",Chicken Thighs, 12 oz,604 ,82 ,16 ,30 ,460 ,296 ,0 ,0 
+508,4/15/2025,Meal 3,"Birds Eye - Broccoli Florets, 306 g",Broccoli Florets, 306 g,111 ,4 ,15 ,0 ,0 ,74 ,7 ,7 
+510,4/15/2025,Snacks,"Food Should Taste Good - Tortilla Chips, Sweet Potato, 1 pouch","Tortilla Chips, Sweet Potato", 1 pouch,220 ,2 ,28 ,11 ,0 ,120 ,4 ,3 
+511,4/15/2025,Snacks,"Got Milk - Cookies & Cream Wafer Rolls, 1 stick",Cookies & Cream Wafer Rolls, 1 stick,78 ,1 ,11 ,3 ,0 ,9 ,8 ,0 
+512,4/15/2025,Total,TOTALS,,,"2,558 ",153 ,216 ,124 ,"1,388 ","2,501 ",76 ,23 
