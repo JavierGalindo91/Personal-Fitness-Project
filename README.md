@@ -3,7 +3,7 @@ A chance to better my health by introducing good habits.
 
 I decided to invest more time to improving my overall fitness. I have not been able to keep a consistent diet and exercise/resting schedule despite being an athlete growing up.
 
-### **The purpose of this project is take an analytical approach to my fitness in order to achieve my goal of reaching 190lbs.**
+### **The purpose of this project is take an analytical approach to my fitness in order to achieve my goal of reaching 200lbs.**
 
 _________________________________________________________________
 
